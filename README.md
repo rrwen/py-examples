@@ -13,30 +13,30 @@ This repository contains some quick examples on working with Excel spreadsheets 
 ## Quick Start
   
 1. Install [Python 2.7](https://www.python.org/downloads/) if it is not installed  
-2. Download [this repository](https://github.com/rwenite/ex-py-xls/archive/master.zip)  
+2. Download [this repository](https://github.com/rwenite/py-examples/archive/xls.zip)  
 3. Run cmd.bat    
 4. Install pyexcel and pyexcel-xls `pip install pyexcel pyexcel-xls`  
   
 **Example 1: Local Spreadsheet Merger**  
   
-The `complete\censusindia_xls_merger_local.py` code takes in a folder with spreadsheets (see [input](https://github.com/rwenite/ex-py-xls/tree/master/input)) and merges them into a single spreadsheet. All spreadsheets in the folder will be merged.  
+The `complete\censusindia_xls_merger_local.py` code takes in a folder with spreadsheets (see [input](https://github.com/rwenite/py-examples/tree/xls/input)) and merges them into a single spreadsheet. All spreadsheets in the folder will be merged.  
   
 1. Run cmd.bat and type in `python complete\censusindia_xls_merger_local.py`  
 2. When prompted for a folder, type in `input`  
 3. When prompted for a single spreadsheet to save to, type in `output\\local_merged.xls` 
-<img src="https://raw.githubusercontent.com/rwenite/ex-py-xls/master/img/censusindia_xls_merger_local.JPG" width="700;"/>  
+<img src="https://raw.githubusercontent.com/rwenite/py-examples/xls/img/censusindia_xls_merger_local.JPG" width="700;"/>  
   
 **Example 2: URL Spreadsheet Merger**  
   
-The `complete\censusindia_xls_merger_url.py` code accepts a list of spreadsheet urls (see [censusindia_urls.txt](https://github.com/rwenite/ex-py-xls/blob/master/input/censusindia_urls.txt)) and merges them into a single spreadsheet.
+The `complete\censusindia_xls_merger_url.py` code accepts a list of spreadsheet urls (see [censusindia_urls.txt](https://github.com/rwenite/py-examples/blob/xls/input/censusindia_urls.txt)) and merges them into a single spreadsheet.
   
 1. Run cmd.bat and type in `python complete\censusindia_xls_merger_url.py`  
 2. When prompted for a list of urls, type in `input\\censusindia_urls.txt`
 3. When prompted for a single spreadsheet to save to, type in `output\\url_merged.xls` 
-<img src="https://raw.githubusercontent.com/rwenite/ex-py-xls/master/img/censusindia_xls_merger_url.JPG" width="700;"/>  
+<img src="https://raw.githubusercontent.com/rwenite/py-examples/xls/img/censusindia_xls_merger_url.JPG" width="700;"/>  
   
 **More Examples:**
-* [complete](https://github.com/rwenite/ex-py-xls/tree/master/complete) for prepared code  
-* [sample](https://github.com/rwenite/ex-py-xls/tree/master/sample) for snippets of code  
-* [input](https://github.com/rwenite/ex-py-xls/tree/master/input) for samples of acceptable file inputs  
+* [complete](https://github.com/rwenite/py-examples/tree/xls/complete) for prepared code  
+* [sample](https://github.com/rwenite/py-examples/tree/xls/sample) for snippets of code  
+* [input](https://github.com/rwenite/py-examples/tree/xls/input) for samples of acceptable file inputs  
   
