@@ -48,6 +48,6 @@ Wing IDE 101 is an integrated development environment (IDE) complete with an edi
 2. Open Wing IDE 101 and go to: _Tools -> Python Shell_ and check that Python is running correctly; if not proceed to steps 3 and 4  
 <img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/wing2.jpg" width="600;"/>  
 3.  Go to: _Edit -> Configure Python..._  
-<img src="https://raw.githubusercontent.com/rwenite/py-examples/examples/intro/img/checkwing1.jpg"  width="400;"/>  
+<img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/checkwing1.jpg"  width="400;"/>  
 4. Select custom, browse to the directory of your installed Python, and select _python.exe_  
 <img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/checkwing2.jpg" width="400;"/>  
