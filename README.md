@@ -45,7 +45,7 @@ Python is an open source and free programming language that is suitable for a wi
 Wing IDE 101 is an integrated development environment (IDE) complete with an editor, debugger, and console to make writing Python code easier.  
   
 1. Download and install [Wing IDE 101](https://wingware.com/downloads/wingide-101) with default settings
-2. Open Wing IDE 101 and go to: _Tools -> Python Shell_ and check that Python is running correctly; if not proceed to steps 3 and 4  
+2. Open Wing IDE 101 and go to: _Tools -> Python Shell_ and check that Python runs correctly; if not proceed to steps 3 and 4  
 <img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/wing2.jpg" width="600;"/>  
 3.  Go to: _Edit -> Configure Python..._  
 <img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/checkwing1.jpg"  width="400;"/>  
