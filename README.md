@@ -1,7 +1,7 @@
 # Python Excel Spreadsheets Examples
   
   
-Richard Wen (init.r.w@gmail.com)  
+Richard Wen (rwenite@gmail.com)  
   
 This repository contains some quick examples on working with Excel spreadsheets via Python's [pyexcel](https://pypi.python.org/pypi/pyexcel) and [pyexcel-xls](https://pypi.python.org/pypi/pyexcel-xls) libraries.
 * Coded for the purpose of merging nonstandard data from [censusindia.gov.in](http://censusindia.gov.in/)
