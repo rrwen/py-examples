@@ -1,7 +1,7 @@
 # Python Introduction
   
   
-Richard Wen (init.r.w@gmail.com)  
+Richard Wen (rwenite@gmail.com)  
   
 A quick introduction to [Python](https://www.python.org/doc/essays/comparisons/) in Windows, which includes setting up python, using an IDE, and basic examples.  
   
