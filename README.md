@@ -5,7 +5,7 @@ Richard Wen (rwenite@gmail.com)
   
 A quick introduction to [Python](https://www.python.org/doc/essays/comparisons/) in Windows, which includes setting up Python, using an IDE, and some basic examples.  
 * [Python](https://www.python.org/about/) is an open source and free general-purpose programming language that focuses on code readability and rapid development
-* [Wing IDE 101](http://wingware.com/) is an integrated development environment (IDE) complete with an editor, debugger, and console to make writing Python code easier
+* [Wing IDE 101](http://wingware.com/) provides a Graphical User Interface (GUI) complete with an editor, console, and debugger to make writing Python code easier
   
 **Requirements**  
 * [Python 2.7](https://www.python.org/downloads/)  
