@@ -31,7 +31,7 @@ A quick introduction to [Python](https://www.python.org/doc/essays/comparisons/)
   
 ## 2.0 Install Guide  
   
-**2.1 Python 2.7**  
+**Python 2.7**  
   
 Python is an open source and free programming language that is suitable for a wide variety of purposes.
   
@@ -40,7 +40,7 @@ Python is an open source and free programming language that is suitable for a wi
 3. Then, type in `python` and you should be in the Python shell  
 <img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/install4.jpg"  width="600;"/>  
   
-**2.2 Wing IDE 101**  
+**Wing IDE 101**  
   
 Wing IDE 101 is an integrated development environment (IDE) complete with an editor, debugger, and console to make writing Python code easier.  
   
