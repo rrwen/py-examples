@@ -11,7 +11,7 @@ A quick introduction to Python in Windows, which includes setting up Python/Wing
 * [Python 2.7](https://www.python.org/downloads/)  
 * [Wing IDE](https://wingware.com/downloads/wingide-101) (Recommended)  
 
-**Explore the python examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.**  
+**Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.**  
   
 ## 1.0 Quick Start  
 1. Download and install [Python 2.7](https://www.python.org/downloads/) and [Wing IDE](https://wingware.com/downloads/wingide-101) (see the install guide in section 2.0)  
