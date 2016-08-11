@@ -8,6 +8,8 @@ A quick introduction to [Python](https://www.python.org/doc/essays/comparisons/)
 **Requirements**  
 * [Python 2.7](https://www.python.org/downloads/)  
 * [Wing IDE](https://wingware.com/downloads/wingide-101) (Recommended)  
+
+**Explore the python examples by switching branches in this repository.**  
   
 ## 1.0 Quick Start  
 1. Download and install [Python 2.7](https://www.python.org/downloads/) and [Wing IDE](https://wingware.com/downloads/wingide-101) (see the install guide in section 2.0)  
@@ -15,8 +17,6 @@ A quick introduction to [Python](https://www.python.org/doc/essays/comparisons/)
 3. Run cmd.bat  
 4. Execute a simple Python file via the command line: `python sample\helloworld.py`  
 5. Try the [basic examples](https://github.com/rwenite/py-examples/tree/intro/sample) with Wing IDE 101 and refer to the [python docs](https://docs.python.org/2.7/)  
-  
-**For more examples, switch the branches in this repository.**  
   
 **Package Installation**  
   
