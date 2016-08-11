@@ -4,6 +4,8 @@
 Richard Wen (rwenite@gmail.com)  
   
 A quick introduction to [Python](https://www.python.org/doc/essays/comparisons/) in Windows, which includes setting up python, using an IDE, and basic examples.  
+* [Python](https://www.python.org/about/) is an open source and free programming language that is suitable for a wide variety of purposes
+* [Wing IDE 101](http://wingware.com/) is an integrated development environment (IDE) complete with an editor, debugger, and console to make writing Python code easier
   
 **Requirements**  
 * [Python 2.7](https://www.python.org/downloads/)  
@@ -31,9 +33,7 @@ A quick introduction to [Python](https://www.python.org/doc/essays/comparisons/)
   
 ## 2.0 Install Guide  
   
-**Python 2.7**  
-  
-Python is an open source and free programming language that is suitable for a wide variety of purposes.
+**Python 2.7**
   
 1. Download and install [Python 2.7](https://www.python.org/downloads/) with default settings  
 2. In a command prompt, type in `set PATH=%PATH%;C:\Python27\;C:\Python27\Scripts\`  
@@ -41,8 +41,6 @@ Python is an open source and free programming language that is suitable for a wi
 <img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/install4.jpg"  width="600;"/>  
   
 **Wing IDE 101**  
-  
-Wing IDE 101 is an integrated development environment (IDE) complete with an editor, debugger, and console to make writing Python code easier.  
   
 1. Download and install [Wing IDE 101](https://wingware.com/downloads/wingide-101) with default settings
 2. Open Wing IDE 101 and go to: _Tools -> Python Shell_ and check that Python runs correctly; if not proceed to steps 3 and 4  
