@@ -16,7 +16,7 @@ A quick introduction to [Python](https://www.python.org/doc/essays/comparisons/)
 4. Execute a simple Python file via the command line: `python sample\helloworld.py`  
 5. Try the [basic examples](https://github.com/rwenite/py-examples/tree/intro/sample) with Wing IDE 101 and refer to the [python docs](https://docs.python.org/2.7/)  
   
-For more examples, switch the branches in this project.  
+**For more examples, switch the branches in this repository.**  
   
 **Package Installation**  
   
