@@ -9,7 +9,7 @@ A quick introduction to Python in Windows, which includes setting up Python/Wing
   
 **Requirements**  
 * [Python 2.7](https://www.python.org/downloads/)  
-* [Wing IDE](https://wingware.com/downloads/wingide-101) (Recommended)  
+* [Wing IDE](https://wingware.com/downloads/wingide-101)
 
 **Explore the examples by switching [branches](https://help.github.com/articles/viewing-branches-in-your-repository/) in this repository.**  
   
