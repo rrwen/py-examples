@@ -1,7 +1,7 @@
 # Python Introduction
   
   
-Richard Wen (rwenite@gmail.com)  
+Richard Wen (rich.rwen@gmail.com)  
   
 A quick introduction to Python in Windows, which includes setting up Python/Wing IDE 101, and some basic examples.  
 * [Python](https://www.python.org/about/) is a general-purpose programming language that focuses on code readability and rapid development
@@ -15,10 +15,10 @@ A quick introduction to Python in Windows, which includes setting up Python/Wing
   
 ## 1.0 Quick Start  
 1. Download and install [Python 2.7](https://www.python.org/downloads/) and [Wing IDE](https://wingware.com/downloads/wingide-101) (see the install guide in section 2.0)  
-2. Download and unzip [this repository](https://github.com/rwenite/py-examples/archive/intro.zip)  
+2. Download and unzip [this repository](https://github.com/rrwen/py-examples/archive/intro.zip)  
 3. Run cmd.bat  
 4. Execute a simple Python file via the command line: `python sample\helloworld.py`  
-5. Try the [basic examples](https://github.com/rwenite/py-examples/tree/intro/sample) with Wing IDE 101 and refer to the [python docs](https://docs.python.org/2.7/)  
+5. Try the [basic examples](https://github.com/rrwen/py-examples/tree/intro/sample) with Wing IDE 101 and refer to the [python docs](https://docs.python.org/2.7/)  
   
 **Package Installation**  
   
@@ -38,14 +38,14 @@ A quick introduction to Python in Windows, which includes setting up Python/Wing
 1. Download and install [Python 2.7](https://www.python.org/downloads/) with default settings  
 2. In a command prompt, type in `set PATH=%PATH%;C:\Python27\;C:\Python27\Scripts\`  
 3. Then, type in `python` and you should be in the Python shell  
-<img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/install4.jpg"  width="600;"/>  
+<img src="https://raw.githubusercontent.com/rrwen/py-examples/intro/img/install4.jpg"  width="600;"/>  
   
 **Wing IDE 101**  
   
 1. Download and install [Wing IDE 101](https://wingware.com/downloads/wingide-101) with default settings
 2. Open Wing IDE 101 and go to: _Tools -> Python Shell_ and check that Python runs correctly; if not proceed to steps 3 and 4  
-<img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/wing2.jpg" width="600;"/>  
+<img src="https://raw.githubusercontent.com/rrwen/py-examples/intro/img/wing2.jpg" width="600;"/>  
 3.  Go to: _Edit -> Configure Python..._  
-<img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/checkwing1.jpg"  width="400;"/>  
+<img src="https://raw.githubusercontent.com/rrwen/py-examples/intro/img/checkwing1.jpg"  width="400;"/>  
 4. Select custom, browse to the directory of your installed Python, and select _python.exe_  
-<img src="https://raw.githubusercontent.com/rwenite/py-examples/intro/img/checkwing2.jpg" width="400;"/>  
+<img src="https://raw.githubusercontent.com/rrwen/py-examples/intro/img/checkwing2.jpg" width="400;"/>  
