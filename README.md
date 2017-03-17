@@ -1,7 +1,7 @@
 # Python Introduction
   
   
-Richard Wen (rich.rwen@gmail.com)  
+Richard Wen (rrwen.dev@gmail.com)  
   
 A quick introduction to Python in Windows, which includes setting up Python/Wing IDE 101, and some basic examples.  
 * [Python](https://www.python.org/about/) is a general-purpose programming language that focuses on code readability and rapid development
