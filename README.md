@@ -1,7 +1,7 @@
 # Python URL Downloads Examples
   
   
-Richard Wen (rich.rwen@gmail.com)  
+Richard Wen (rrwen.dev@gmail.com)  
   
 This repository contains some quick examples on file downloads via Python's [urllib](https://docs.python.org/2/library/urllib.html?highlight=urllib#module-urllib) and [requests](https://pypi.python.org/pypi/requests) libraries.
 * Coded for purposes of downloading particular census and open data for india (e.g. [data.gov.in](https://data.gov.in/catalog/traffic-handled-major-ports-india#web_catalog_tabs_block_10), [censusindia.gov.in](http://www.censusindia.gov.in/2011census/population_enumeration.html))
